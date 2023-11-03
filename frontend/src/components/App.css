@@ -1,0 +1,14 @@
+.box{
+    justify-content: center;
+    display: flex;
+    gap: 5rem;
+}
+.filters{
+    max-width: 10rem;
+}
+.cards{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: center;
+    gap: 2rem;
+}
