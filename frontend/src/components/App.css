@@ -11,4 +11,6 @@
     grid-template-columns: auto auto;
     justify-content: center;
     gap: 2rem;
+    max-width: 30rem;
+    min-width: 35rem;
 }
